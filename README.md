@@ -1,7 +1,7 @@
 [![Java Version Builds](https://github.com/jitsi/jitsi/actions/workflows/java.yml/badge.svg?branch=new-build)](https://github.com/jitsi/jitsi/actions/workflows/java.yml)
 [![Installers](https://github.com/jitsi/jitsi/actions/workflows/installers.yml/badge.svg?branch=new-build)](https://github.com/jitsi/jitsi/actions/workflows/installers.yml)
 
-Jitsi Desktop
+Jitsi Desktop 
 =============
 
 Jitsi Desktop is a free open-source audio/video and chat communicator that
